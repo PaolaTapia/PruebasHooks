@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en HookApp renders correctly HookApp 1`] = `
+<h1>
+  Hola Mundo!
+</h1>
+`;
